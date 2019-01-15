@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>分享</title>
+<title>微信分享</title>
 </head>
 <body>
 <!-- <script typet="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script> -->
