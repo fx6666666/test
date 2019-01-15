@@ -17,7 +17,7 @@
    var timestamp;
    var noncestr;
    var signature;
-   //获取签名dd
+   //获取签名
     $.ajax({
       type: "GET",
       url: "wshare/getSignature",
