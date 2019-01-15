@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: share
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.tedu
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/share/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
